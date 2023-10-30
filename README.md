@@ -55,3 +55,13 @@ Total params: 2,500,427 (9.54 MB)
 Trainable params: 2,499,851 (9.54 MB)
 Non-trainable params: 576 (2.25 KB)
 ```
+### Model Training and Evaluation
+
+#### Training and Validation Accuracy For VGG19
+
+- **Validation loss**: 0.9852526783943176
+- **Validation Accuracy**: 0.896267831325531
+
+#### Loss vs. Epoch Graph
+
+![Loss vs. Epoch](https://example.com/path-to-loss-epoch-graph.png)
