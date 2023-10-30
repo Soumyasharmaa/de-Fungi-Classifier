@@ -64,4 +64,4 @@ Non-trainable params: 576 (2.25 KB)
 
 #### Loss vs. Epoch Graph
 
-![Loss vs. Epoch](https://example.com/path-to-loss-epoch-graph.png)
+![Loss vs. Epoch](https://github.com/Soumyasharmaa/de-Fungi-Classifier/blob/main/Train_valid_loss_vs_epochs.png?raw=true)
