@@ -23,6 +23,8 @@ Total params: 20,149,829 (76.87 MB)
 Trainable params: 125,445 (490.02 KB)
 Non-trainable params: 20,024,384 (76.39 MB)
 ```
+![VGG19 Model Summary](https://github.com/your-username/your-repo/raw/main/path-to-image/model_summary_vgg19.png)
+
 #### Custom Model
 ```plaintext
 Layer (type)                Output Shape              Param #
