@@ -65,3 +65,11 @@ Non-trainable params: 576 (2.25 KB)
 #### Loss vs. Epoch Graph
 
 ![Loss vs. Epoch](https://github.com/Soumyasharmaa/de-Fungi-Classifier/blob/main/Train_valid_loss_vs_epochs.png?raw=true)
+
+#### Training and Validation Accuracy For Custom Model
+
+- **Validation loss**: 0.7480524778366089
+- **Validation Accuracy**: 0.9319429397583008
+- ### Resources
+- [Learn More About Fungi](https://www.kaggle.com/datasets/joebeachcapital/defungi/data)
+
