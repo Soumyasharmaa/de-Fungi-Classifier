@@ -23,7 +23,7 @@ Total params: 20,149,829 (76.87 MB)
 Trainable params: 125,445 (490.02 KB)
 Non-trainable params: 20,024,384 (76.39 MB)
 ```
-![VGG19 Model Summary](https://github.com/your-username/your-repo/raw/main/path-to-image/model_summary_vgg19.png)
+![VGG19 Model Summary](https://github.com/Soumyasharmaa/de-Fungi-Classifier/blob/main/Model_summary.png?raw=true)
 
 #### Custom Model
 ```plaintext
