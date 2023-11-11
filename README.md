@@ -49,7 +49,23 @@ conv2d_2 (Conv2D)           (None, 52, 52, 64)        36,928
 
 batch_normalization_2 (Bat  (None, 52, 52, 64)        256
 chNormalization)
-...
+                                                                
+ max_pooling2d_2 (MaxPoolin  (None, 26, 26, 64)        0         
+ g2D)                                                            
+                                                                 
+ conv2d_3 (Conv2D)           (None, 24, 24, 128)       73856     
+                                                                 
+ batch_normalization_3 (Bat  (None, 24, 24, 128)       512       
+ chNormalization)                                                
+                                                                 
+ max_pooling2d_3 (MaxPoolin  (None, 12, 12, 128)       0         
+ g2D)                                                            
+                                                                 
+ flatten (Flatten)           (None, 18432)             0         
+                                                                 
+ dense (Dense)               (None, 128)               2359424   
+                                                                 
+ dense_1 (Dense)             (None, 75)                9675
 ==============================================================
 Total params: 2,500,427 (9.54 MB)
 Trainable params: 2,499,851 (9.54 MB)
